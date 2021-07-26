@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabh Nigam  
 - 👀 I’m interested in Java Web Technologies
-- 🌱 I’m currently learning Hibernate
+- 🌱 I’m currently learning Azure DevOps Tool
 - 💞️ I’m looking to collaborate on Java Project
 - 📫 reach me at rishabhnigam590@gmail.com
 
